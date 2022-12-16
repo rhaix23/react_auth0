@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.btn {
+  margin: 1rem 0;
+  padding: 1rem 6rem;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: bold;
+  background: #0a70ff;
+  cursor: pointer;
+}
